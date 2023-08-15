@@ -6,4 +6,4 @@
 
 - shamelessly stolen from [grid-lock-screensaver](https://github.com/chrstphrknwtn/grid-clock-screensaver)
 
-![](.\img\screenshot.png)
+![](img\screenshot.png)
